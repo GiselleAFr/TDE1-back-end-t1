@@ -13,10 +13,6 @@ Tipo de atividade: Curso online
 
 Documento entregue: Respostas das questões e evidencias de conclusão.
 
-📁 Estrutura do Repositório
-/certificado
-   certificado-udemy.pdf
-README.md
 
 Tde 1 - Back-end.pdf: Documento que comprova a conclusão do curso na plataforma Udemy.
 
